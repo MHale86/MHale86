@@ -13,7 +13,7 @@ on:
 
 jobs:
   devcard:
-    runs-on: unbuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.2
